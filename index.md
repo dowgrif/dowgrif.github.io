@@ -3,7 +3,7 @@ Box 11 Grp 50 RR1, Ste-Anne, MB
 204-392-8017
 
 ### Work experience:
-##### Employment and Social Development Canada
+##### Employment and Social Development Canada Aug 2018 - Present
 ###### IT technician
 * Provided front line support to clients experiencing difficulties with a large pool of software and hardware
 * Interacted with a wide variety of clients with varying dispositions
