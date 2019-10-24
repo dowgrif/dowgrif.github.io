@@ -36,13 +36,15 @@
 ### How to create a website to host you're resume!
 
    After following these instructions you will have a publicly accessible website that will host your resume.
-   To do so you will need:
+   To do so you will need:  
     * To create a resume written in GitHub flavored Markdown format  
     * Create a new GitHub repository to host your website from  
     * Learn to use GitHub pages and Jekyll themes  
+   It's simple and looks pretty good! Check mine out  
+   [My resume](https://dowgrif.github.io/)
 
    1. Using your know found skills: write your resume in GitHub markdown format  
-     * Use a text editor that provides a preview of the of what the markdown formatted text will look like. [Here are some options](https://www.shopify.ca/partners/blog/10-of-the-best-markdown-editors)
+     * Use a text editor that provides a preview of the of what the markdown formatted text will look like. [Here are some options](https://www.shopify.ca/partners/blog/10-of-the-best-markdown-editors)  
      * I personally like Atom. The download can be found [here.](https://atom.io/)
    2. Once finished save your resume using index.md as the filename
    3. Sign into your GitHub account
