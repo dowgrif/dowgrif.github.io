@@ -58,4 +58,6 @@
      * Select a theme, you can always switch themes later
      * After selecting a theme your website will start to build itself. This may take a short while.
      * your website URL will be https://[username].github.io/
-   7. You may edit the automatically generated _config file 
+   7. You may edit the automatically generated _config file if you feel the need to do so
+     * For more information see this [site](https://jekyllrb.com/docs/step-by-step/03-front-matter/)
+   
