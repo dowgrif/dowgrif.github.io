@@ -1,30 +1,31 @@
 ## README 
 
 ### Audience
-##### Technical background
+#### Technical background
 * No experience with Atom  
 * No experience with Markdown
 * Little to moderate experience with GitHub
 * No experience with Jekyll
 
-##### Venue
+#### Venue
 A README file within GitHub pages
 
-##### Purpose
+#### Purpose
 To write a resume using Markdown  
 Format the resume using a Jekyll theme  
 
-##### Additional Purpose
+#### Additional Purpose
 Increase my experience with technical writing tools: Markdown, Jekyll and GitHub pages
 
-##### Desired Reaction
+#### Desired Reaction
 Understanding of the tools used and their capabilities
 
-##### Vocabulary
+#### Vocabulary
 Technical words and format 
 
-##### Tone
+#### Tone
 Focused but with enough lightness to keep a reader engaged
+
 
 ### Prerequisites
 * A GitHub account and basic knowledge and the platform 
@@ -32,9 +33,13 @@ Focused but with enough lightness to keep a reader engaged
 * Knowledge of Markdown
  * [Click here for a quick tutorial](https://www.markdowntutorial.co)
  
-### Instructions to create a static site
+### How to create a website to host you're resume!
 
 After following these instructions you will have a publicly accessible website that will host your resume.
+To do so you will need:
+ * To create a resume written in GitHub flavored Markdown format
+ * Create a new GitHub repository to host your website from
+ * Learn to use GitHub pages and Jekyll themes
 
 1. Using your know found skills: write your resume in GitHub markdown format  
   * Use a text editor that provides a preview of the of what the markdown formatted text will look like. [Here are some options](https://www.shopify.ca/partners/blog/10-of-the-best-markdown-editors)
