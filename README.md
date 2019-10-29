@@ -1,30 +1,9 @@
 ## README
 
-### Audience
-   #### Technical background
-   * No experience with Atom  
-   * No experience with Markdown
-   * Little to moderate experience with GitHub
-   * No experience with Jekyll  
+### What is this and who is this fo?
 
-#### Venue
-   A README file within GitHub pages
-
-#### Purpose
-   To write a resume using Markdown  
-   Format the resume using a Jekyll theme  
-
-#### Additional Purpose
-   Increase my experience with technical writing tools: Markdown, Jekyll and GitHub pages
-
-#### Desired Reaction
-   Understanding of the tools used and their capabilities
-
-#### Vocabulary
-   Technical words and format
-
-#### Tone
-   Focused but with enough lightness to keep a reader engaged
+   This is an example of how any person can create a website! On this site you will find an example of a basic website and the instructions to create that website. We will focus on making this website so that you will be able to host your resume on a website. You will then be able to publically display your resume for anyone to see in a way that is convient and does not rely on any type of specific format. Anyone with a web browser will be able to view this easily. 
+   Anyone with any level of skill will be able to make use these instructions to create their resume.
 
 
 ### Prerequisites
