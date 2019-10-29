@@ -46,7 +46,7 @@ To do so you will need:
 
 
 #### Step-by-Step
-   1. Using your know found skills: write your resume in GitHub markdown format  
+   1. Using your new found skills write your resume in GitHub markdown format  
      * Use a text editor that provides a preview of the of what the markdown formatted text will look like. [Here are some options](https://www.shopify.ca/partners/blog/10-of-the-best-markdown-editors)  
      * I personally like Atom. The download can be found [here.](https://atom.io/)
    2. Once finished save your resume using index.md as the filename
@@ -77,5 +77,12 @@ To do so you will need:
 
 ### Frequently Asked Questions
 
-  #### I don't know how to make websites, can I do this?
+  #### I don't know how to make websites, can I do this?  
     Yes, using this method you do not need to learn any programming nor do you need to know anything about design. *All* programming and design will be done for you and included in the theme you select.
+
+  #### How do I use Atom to make a markdown file?
+      First, you need to open a new file in Atom.
+      In the new file open the edit menu then click "Select Grammar"
+      From the list select GitHub Markdown
+      Before you start press Ctrl+Shift+m to open the preview mode so you can see what the text will look like after the formatting is applied 
+      I will unfortunately not be teaching markdown here but the afore mentioned tutorial will get started
