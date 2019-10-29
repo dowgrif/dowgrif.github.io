@@ -1,6 +1,6 @@
 ## README
 
-### What is this and who is this fo?
+### What is this and who is this for?
 
    This is an example of how any person can create a website! On this site you will find an example of a basic website and the instructions to create that website. We will focus on making this website so that you will be able to host your resume on a website. You will then be able to publically display your resume for anyone to see in a way that is convient and does not rely on any type of specific format. Anyone with a web browser will be able to view this easily. 
    Anyone with any level of skill will be able to make use these instructions to create their resume.
