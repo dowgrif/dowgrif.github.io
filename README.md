@@ -51,22 +51,22 @@ To do so you will need:
      * I personally like Atom. The download can be found [here.](https://atom.io/)
    2. Once finished save your resume using index.md as the filename
    3. Sign into your GitHub account
-   4. Create a new repository
-     * The easiest way to create a new repository is to click the "+" button in the top right and select new repository
+   4. Create a new repository  
+     * The easiest way to create a new repository is to click the "+" button in the top right and select new repository  
      * The new repository *must* be named (your username).github.io  
      For example, if your username is Steven your repository would have be named Steven.github.io
    5. Upload the index.md file to the repository
-     * Be sure to upload it to the master branch, _otherwise it won't be displayed on the front page_
+     * Be sure to upload it to the master branch, _otherwise it won't be displayed on the front page_  
    6. Now turn on the GitHub Pages functionality  
-     * Navigate to the repository settings from the main page of the repository
-     * Scroll to the GitHub Pages section
-     * From the drop down menu select "master branch" as your source
-     * Select a theme, you can always switch themes later
-     * After selecting a theme your website will start to build itself. This may take a short while.
-     * your website URL will be https://[username].github.io/
+     * Navigate to the repository settings from the main page of the repository  
+     * Scroll to the GitHub Pages section  
+     * From the drop down menu select "master branch" as your source  
+     * Select a theme, you can always switch themes later  
+     * After selecting a theme your website will start to build itself. This may take a short while.  
+     * your website URL will be https://[username].github.io/  
    7. You may edit the automatically generated _config file if you feel the need to do so
-     * This step is entirely optional
-     * For more information see this [site](https://jekyllrb.com/docs/step-by-step/03-front-matter/)
+     * This step is entirely optional  
+     * For more information see this [site](https://jekyllrb.com/docs/step-by-step/03-front-matter/)  
 
 ### Authors and Acknowledgments
    Written by Dow Griffith
