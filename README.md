@@ -29,9 +29,9 @@
 
 ### Prerequisites
 * A GitHub account and basic knowledge and the platform  
- * [Sign up here](https://www.github.com)  
+  * [Sign up here](https://www.github.com)  
 * Knowledge of Markdown  
- * [Click here for a quick tutorial](https://www.markdowntutorial.co)
+  * [Click here for a quick tutorial](https://www.markdowntutorial.co)
 
 ### How to create a website to host your resume!
 
