@@ -69,11 +69,12 @@ To do so you will need:
      * For more information see this [site](https://jekyllrb.com/docs/step-by-step/03-front-matter/)  
 
 ### Authors and Acknowledgments
-   Written by Dow Griffith
-
-   Reviewed by:  
-   Kory McCarthy  
-   Enesi Jatto
+   | Contributor   | Role   |
+   | --------------| ------ |
+   | Dow Griffith  | Author |
+   | Kory McCarthy | Editor |
+   | Enesi Jatto   | Editor |    
+   
 
 ### Frequently Asked Questions
 
